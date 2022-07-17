@@ -2,10 +2,10 @@
 Mi nombre es Lucas, soy de Argentina y estudiante de programación.
 
 ### Habilidades
-⭐Conocimientos en MySQL
-⭐Conocimientos en PHP y JavaScript
+⭐Conocimientos en MySQL<br>
+⭐Conocimientos en PHP y JavaScript<br>
 ⭐Conocimientos en Boostrap
 
 ### Contacto
-Correo electrónico: rodriguezlucas@outlook.com.ar
-Linkedin: https://www.linkedin.com/in/lucas-rodriguez-71398a209/
+Correo electrónico: rodriguezlucas@outlook.com.ar<br>
+Linkedin: https://www.linkedin.com/in/lucas-rodriguez-71398a209/<br>
